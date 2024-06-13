@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './bootstrap.css';
+/* @import './flexslider.css'; */
+/* @import './fontawesome-all.css'; */
+/* @import './ken-burns.css'; */
+/* @import './slider.css'; */
+@import './style.css';
+/* @import './swipebox.css'; */
+
+
